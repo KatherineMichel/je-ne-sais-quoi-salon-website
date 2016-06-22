@@ -1,2 +1,3 @@
-je-ne-sais-quoi-salon-website
-=============================
+# Je Ne Sais Quoi Salon Website
+
+A Bootstrap prototype
