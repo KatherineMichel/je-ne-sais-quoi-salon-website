@@ -1,4 +1,4 @@
-je-ne-sais-quoi-salon-website
-=============================
-See gh-pages branch for files <br>
+# Je Ne Sais Quoi Salon Website
+
+A Bootstrap prototype; See gh-pages branch for files
 
